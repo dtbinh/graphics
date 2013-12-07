@@ -1,0 +1,2 @@
+diff -r dir1/ dir2/
+diff --brief -r dir1/ dir2/
